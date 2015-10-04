@@ -92,4 +92,4 @@ implementation that necessitates the creation and linking of a compiled library.
 ## References
 
 1. A. T. Karl, R. Eubank, J. Milovanovic, M. Reiser, and D. Young (2014). Using RngStreams for parallel random number
-generation in C++ and R. #Computational Statistics#, 29(5), 1301-1320.
+generation in C++ and R. *Computational Statistics*, 29(5), 1301-1320.
