@@ -1,4 +1,4 @@
-#Recommender Systems
+#Recommender Systems (Mostly LSH)
 
 The notion of having a product suggested to a user by a computer has become pervasive in everyday life. From Netflix to Amazon, "smart" suggestions on what to buy have appeared, with the underlying models and machines gaining wisdom from various techniques such as collaborative filtering.
 
